@@ -1,1 +1,1 @@
-# Real-Time-Face-Detection-using-Open-CV-and-Machine-learning-technique
+# Face-Detection-using-Open-CV-and-Machine-learning-technique
